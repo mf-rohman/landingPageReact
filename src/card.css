@@ -1,0 +1,30 @@
+.card {
+    position: relative;
+    background: #fff;
+    border-radius: 10px;
+    shadow-box: 1 5 10px rgba(225, 225, 225, 0.1);
+    width: 45%;
+    height: auto;
+    box-shadow: 5px 7px 10px grey;
+}
+
+.card-img {
+    height: 260px;
+    padding-bottom: 13px;
+    border-radius:10px;
+    box-shadow: 2px 7px 10px grey;
+}
+
+.card-title {
+    padding-left: 15px;
+}
+
+.card-text {
+    padding-left: 15px;
+}
+
+.btn-primary{
+    margin-left: 60px;
+    margin-bottom: 15px;
+    font-size:13px;
+}
